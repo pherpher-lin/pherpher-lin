@@ -1,4 +1,4 @@
-## Hi I'm Chris! 👋  | [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-l-09a989103/) 
+## Hi I'm Chris! 👋 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-l-09a989103/) 
 <!--
 **Yuh-Hsing-Lin/Yuh-Hsing-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
