@@ -3,12 +3,11 @@
 ## About Me 
 
 Hello, I'm Chris. Data Analyst with a specialty in visualizing data
-  * Proficiency with machine learning models in programs such as RapidMiner and Knime
-  * Querying with SQL in Access to pull data from multi relational tables
-  * Certified in MOS - Excel 2019 
-  * Visualizing geospatial data in ArcGIS and QGIS 
-  * Analytic skills in Python/Google Collab
-  * Speech and Debate third place Washington StoaUSA Christian Homeschool Speech and Debate
+* Technical Skills: SQL, Python (Numpy, Pandas, Matplotlib, Seaborn, Sklearn), Power BI, Tableau, RapidMinder, Knime
+* Data Analysis: Linear regression, clustering, …
+* Certifications: MOS - Excel 2019 
+* Languages: English (Fluent) , Mandarin Chinese (Conversational) 
+* Personal: Captain of Ultimate Frisbee Team 2022-24 | CSL Basketball Champions 2019 | Guitar SCA Worship 
     
 ### [👩‍🍳 Projects](https://github.com/Yuh-Hsing-Lin/Project_Index) 
  * Here are all my projects that I've done
