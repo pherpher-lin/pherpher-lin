@@ -4,7 +4,7 @@
 
 Hello, I'm Chris. Data Analyst with a specialty in visualizing data
 * Technical Skills: SQL, Python (Numpy, Pandas, Matplotlib, Seaborn, Sklearn), Power BI, Tableau, RapidMinder, Knime
-* Data Analysis: Linear regression, clustering, …
+* Data Analysis: Linear regression, clustering, SQL, Tableau dashboards
 * Certifications: MOS - Excel 2019 
 * Languages: English (Fluent) , Mandarin Chinese (Conversational) 
 * Personal: Captain of Ultimate Frisbee Team 2022-24 | CSL Basketball Champions 2019 | Guitar SCA Worship 
