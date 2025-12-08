@@ -1,4 +1,5 @@
-<img width="1200" height="400" alt="Christopher Lin (2)" src="https://github.com/user-attachments/assets/3499b825-21a4-4bd5-a460-c9f80f25d2b4" />
+
+<img width="1200" height="400" alt="2" src="https://github.com/user-attachments/assets/7a469a5f-61dd-40fe-b239-e71049b639d9" />
 
 ## About Me 
 
