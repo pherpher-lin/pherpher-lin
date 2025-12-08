@@ -14,7 +14,7 @@ Vehicle Crash Data Visualization: Dashboard Link
 * Utilized Tableau to visualize trends in crash frequency over time, creating a time-series dashboard identifying high-risk driving hours across New York
 
 ### 🛠 Tools
- * Languages: SQL, Python(Numpy, Pandas, Matplotlib, Seaborn, Sklearn), R
+ * Languages: SQL, Python (Numpy, Pandas, Matplotlib, Seaborn, Sklearn), R
  * Visualization: Tablue, PowerBI
 ### 📎 Connect 
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-l-09a989103/) [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/pherpher-lin/Project_Index/blob/main/README.md)
